@@ -1,4 +1,4 @@
-# Meshtastic card
+# Meshtastic card (WORK IN PROGRESS!)
 
 [![GH-release](https://img.shields.io/github/v/release/hamper/meshtastic-card.svg?style=flat-square)](https://github.com/hamper/meshtastic-card/releases)
 [![GH-last-commit](https://img.shields.io/github/last-commit/hamper/meshtastic-card.svg?style=flat-square)](https://github.com/hamper/meshtastic-card/commits/main)
