@@ -48,7 +48,7 @@ Add the card to your dashboard using the UI editor or YAML:
 
 The card is fully configurable through the card editor, allowing you to customize:
 
-- Meshtastic device selection (single or multiple)
+- Meshtastic device selection
 
 ### YAML
 
